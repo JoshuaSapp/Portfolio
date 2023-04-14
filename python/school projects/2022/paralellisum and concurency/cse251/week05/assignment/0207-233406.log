@@ -1,0 +1,16 @@
+23:34:15| 205 cars have been created = 9.13835670
+23:34:15| Factories      : 1
+23:34:15| Dealerships    : 1
+23:34:15| Run Time       : 9.1384
+23:34:15| Max queue size : 2
+23:34:15| Factor Stats   : [205]
+23:34:15| Dealer Stats   : [205]
+23:34:15| 
+23:34:31| 215 cars have been created = 16.60840530
+23:34:31| Factories      : 1
+23:34:31| Dealerships    : 2
+23:34:31| Run Time       : 16.6084
+23:34:31| Max queue size : 3
+23:34:31| Factor Stats   : [215]
+23:34:31| Dealer Stats   : [109, 106]
+23:34:31| 

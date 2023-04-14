@@ -1,0 +1,10 @@
+Q1: How would you write an intersection function for a set?
+
+A1: Basically, an intersection is just the common values between two sets.  So, one way we could do this is by iterating through the first set, checking to see if each item is in the second set. If it is, then we can simply add it to a new set that will be our output.  If we do this for each value in the first set, we will wind up with a new set that contains all the intersections.
+
+
+Q2: How would you write a Join function for a set?
+A2: A join is pretty much the same as an intersection, just reversed. This time we will iterate through both sets, adding each item to the new set as long as it is not already in the new set.  
+
+Q3: How would you find symmetric pairs of two letter words in a list in O(n) time using a set?
+A3: Well, since our input is a list first we need to initilize a set for our input data.  Then we can build a set to compare it to by iterating through the input, flipping each string then, as long as the input string is not the same as the flipped string, we can add it to our compare set.  Once the compare set is built, it's as simple as performing an intersection between the two sets!  
